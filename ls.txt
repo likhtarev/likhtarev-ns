@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 nikita nikita 4,0K фев 11 11:23 ./
+drwxr-x--- 18 nikita nikita 4,0K фев 11 11:22 ../
+-rw-rw-r--  1 nikita nikita  701 фев 11 11:11 config.txt
+-rw-rw-r--  1 nikita nikita  147 фев 11 11:06 first.txt
+drwxrwxr-x  8 nikita nikita 4,0K фев 11 11:23 .git/
+-rw-rw-r--  1 nikita nikita    0 фев 11 11:23 ls.txt
+-rw-rw-r--  1 nikita nikita   14 фев 11 11:05 README.md
+-rw-rw-r--  1 nikita nikita  408 фев 11 11:06 status.txt
